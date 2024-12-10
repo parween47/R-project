@@ -1,0 +1,74 @@
+body {
+    background:  #02e9891c;
+    width: 1280px;
+   margin: 30px;
+}
+
+.main {
+    padding: 3px;
+    margin: 15px 10px;
+    overflow: hidden;
+    background-color: rgb(142, 150, 150);
+    color: azure;
+}
+
+.sub1 {
+    float: left;
+    padding: 20px;
+    margin: 5px 5px 5px 5px;
+    background-color: rgb(58, 56, 56);
+    height: 1150px;
+    width: 360px;
+}
+
+.sub2 {
+    clear: right;
+    padding: 20px;
+    margin: 5px 5px 5px 5px;
+    background-color: rgb(222, 247, 250);
+    color: #000;
+    height: 1150px;
+    width: 1090;
+}
+
+.name{
+    background: rgb(58, 56, 56);
+    color: aliceblue;
+    padding:4px ;
+    width: 1000px;
+    border-radius: 50px;
+    border-style: double ;
+    border-width: 4px;
+    
+}
+
+.linkdin {
+    float: left;
+    margin-right: 5px;
+    padding-right: 5px;
+}
+
+.insta {
+    float: left;
+    margin-right: 5px;
+    padding-right: 5px;
+}
+
+.map {
+    float: left;
+    margin-right: 5px;
+    padding-right: 5px;
+}
+
+.gmail {
+    float: left;
+    margin-right: 5px;
+    padding-right: 0px;
+}
+.call{
+    float: left;
+    margin-right: 5px;
+    padding-right: 5px;
+    height: 20px; 
+    border-radius: 100%;
+}
